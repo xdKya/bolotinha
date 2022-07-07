@@ -1,1 +1,2 @@
-# bolotinha
+# synchronousBallMovement
+Ball moving synchronously
